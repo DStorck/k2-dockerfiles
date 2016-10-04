@@ -1,0 +1,5 @@
+20161003T231736+0000	docker.8007086f3b0b	{"container_id":"8007086f3b0b9e1060a67e288205f450cc49132b71213c69b318c7b357b68e57","container_name":"/small_wing","source":"stdout","log":"Hello"}
+
+20161003T233011+0000	docker.fa176ab2e815	{"source":"stdout","log":"yaaaay","container_id":"fa176ab2e815ad443873e5d3ee66e22567de746405404b4fad18b9a698228a6c","container_name":"/zen_chandrasekhar"}
+
+20161003T233112+0000	docker.1901b6e49ef0	{"container_name":"/hungry_poincare","source":"stdout","log":"again.....","container_id":"1901b6e49ef0ae46e231db2e9537b04abd0d3750a168031d21c5f10f7ece3a5a"}
